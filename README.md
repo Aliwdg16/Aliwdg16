@@ -5,7 +5,7 @@
 👀 I’m interested in Web Development
 🌱 I’m currently learning JavaScript, React, Node.js (MERN), TypeScript, and Next.js
 💞️ I’m looking to collaborate on open-source projects or innovative web applications
-📫 How to reach me (https://www.linkedin.com/in/ali-altoutou/)
+📫 How to reach me (https://www.linkedin.com/in/ali-altoutou/) (https://portfolioaltoutou.netlify.app)
 😄 Pronouns:he/him
 ⚡ Fun fact: I'm a coffee enthusiast and love swimming and Table Tennis .
 
