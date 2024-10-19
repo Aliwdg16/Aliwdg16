@@ -33,4 +33,4 @@ https://todolistarh.netlify.app/
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![css](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
