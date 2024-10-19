@@ -26,6 +26,9 @@ https://todolistarh.netlify.app/
 
 
 
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,vite,nodejs,npm,figma,git,github,mongodb,materialui,netlify,vscode,gmail,windows,linkedin,=light)](https://skillicons.dev)
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=aws,html,css,js,react,vite,nodejs,npm,figma,git,github,mongodb,materialui,netlify,vscode,gmail,windows,linkedin,flutter&perline=3)](https://skillicons.dev)
 
